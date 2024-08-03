@@ -1,0 +1,49 @@
+.sub {
+    font: bold 200% "Times New Roman", serif;
+}
+
+.classic {
+    font: size 14px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-body {
+    background-color: rgb(227, 230, 218);
+    max-height: 1000px;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid black;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #757373;
+    font-size: 90%;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    /* align-self: ; */
+}
+
+.text {
+    padding: 0 15px 2px 15px;
+    width: 270px;
+    border: 0.5px solid rgb(177, 177, 177);
+}
+
+.intro {
+    font-style: italic;
+}
+
+li span {
+    font-weight: bold;
+}
+
+.no-bullet {
+    list-style: none;
+    padding: 0;
+}
+
+.main{
+    margin: 10px;
+}
